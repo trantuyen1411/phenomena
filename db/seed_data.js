@@ -105,6 +105,7 @@ async function createInitialReports() {
       password: 'kingwasright'
     })
 
+
     console.log('Success creating reports!');
 
     return [reportOne, reportTwo, reportThree]
